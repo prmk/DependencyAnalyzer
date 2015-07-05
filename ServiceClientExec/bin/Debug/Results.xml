@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!--Generates XML Output for the Analyzed data-->
+<AnalysisResult>
+  <TypeDetailsFileWise />
+  <FilenameName>TestFile1.cs<TypeDetails /><Type>namespace</Type><Name>CodeAnalysis</Name><Begin>5</Begin><End>52</End><TypeDetails /><Type>class</Type><Name>AggregatedeType</Name><Begin>11</Begin><End>14</End><TypeDetails /><Type>class</Type><Name>ParentType</Name><Begin>15</Begin><End>17</End><TypeDetails /><Type>class</Type><Name>UsingType</Name><Begin>18</Begin><End>20</End><TypeDetails /><Type>class</Type><Name>ChildClass</Name><Begin>22</Begin><End>51</End><TypeDetails /><Type>function</Type><Name>get</Name><Begin>27</Begin><End>50</End></FilenameName>
+  <FilenameName>RecursiveTestFile1.cs<TypeDetails /><Type>namespace</Type><Name>CodeAnalysis</Name><Begin>5</Begin><End>51</End><TypeDetails /><Type>class</Type><Name>CompositionTypeRecursive</Name><Begin>6</Begin><End>10</End><TypeDetails /><Type>class</Type><Name>AggregatedeTypeRecursive</Name><Begin>11</Begin><End>14</End><TypeDetails /><Type>class</Type><Name>ParentTypeRecursive</Name><Begin>15</Begin><End>17</End><TypeDetails /><Type>class</Type><Name>UsingTypeRecursive</Name><Begin>18</Begin><End>20</End><TypeDetails /><Type>class</Type><Name>ChildClassTypeRecursive</Name><Begin>22</Begin><End>50</End><TypeDetails /><Type>function</Type><Name>get</Name><Begin>26</Begin><End>49</End></FilenameName>
+  <PackageDependency>
+    <ParentPackage>TestFile1.cs<ChildPackage>RecursiveTestFile1.cs</ChildPackage></ParentPackage>
+  </PackageDependency>
+  <Inheritance>
+    <Parent>ParentType</Parent>
+    <inherits>Inherits</inherits>
+    <Child>ChildClass</Child>
+    <Parent>ParentType</Parent>
+    <inherits>Inherits</inherits>
+    <Child>ChildClassTypeRecursive</Child>
+  </Inheritance>
+  <Aggregation>
+    <Aggregator>ChildClass</Aggregator>
+    <aggregates>Aggregates</aggregates>
+    <Child>at</Child>
+    <ofType>OfType</ofType>
+    <Type>AggregatedeType</Type>
+    <Aggregator>ChildClass</Aggregator>
+    <aggregates>Aggregates</aggregates>
+    <Child>at</Child>
+    <ofType>OfType</ofType>
+    <Type>AggregatedeType</Type>
+  </Aggregation>
+  <Composition>
+    <Class>ChildClass</Class>
+    <composes>Composes</composes>
+    <element>ct</element>
+    <ofType>OfType</ofType>
+    <Type>ComposedType</Type>
+    <Class>CompositionTypeRecursive</Class>
+    <composes>Composes</composes>
+    <element>st</element>
+    <ofType>OfType</ofType>
+    <Type>structTypeRecursive</Type>
+  </Composition>
+  <USINGDETAILS>
+    <Class>ChildClass</Class>
+    <uses>uses</uses>
+    <element>ut</element>
+    <ofType>OfType</ofType>
+    <Type>UsingType</Type>
+    <function>FunctionName</function>
+    <function>ChildClass</function>
+    <Class>ChildClass</Class>
+    <uses>uses</uses>
+    <element>ut</element>
+    <ofType>OfType</ofType>
+    <Type>UsingType</Type>
+    <function>FunctionName</function>
+    <function>ChildClass</function>
+  </USINGDETAILS>
+</AnalysisResult>

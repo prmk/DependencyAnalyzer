@@ -1,0 +1,11 @@
+C:\Users\Pramukh\Desktop\Pr4\BasicHTTPServices\BasicService - Programmatic Version 2\BlockingQueue\bin\Debug\BlockingQueue.exe.config
+C:\Users\Pramukh\Desktop\Pr4\BasicHTTPServices\BasicService - Programmatic Version 2\BlockingQueue\bin\Debug\BlockingQueue.exe
+C:\Users\Pramukh\Desktop\Pr4\BasicHTTPServices\BasicService - Programmatic Version 2\BlockingQueue\bin\Debug\BlockingQueue.pdb
+C:\Users\Pramukh\Desktop\Pr4\BasicHTTPServices\BasicService - Programmatic Version 2\BlockingQueue\obj\Debug\BlockingQueue.exe
+C:\Users\Pramukh\Desktop\Pr4\BasicHTTPServices\BasicService - Programmatic Version 2\BlockingQueue\obj\Debug\BlockingQueue.pdb
+C:\Users\Pramukh\Desktop\Pr4\BasicHTTPServices\BasicService - Programmatic Version 2\BlockingQueue\obj\Debug\BlockingQueue.csprojResolveAssemblyReference.cache
+C:\Users\Pramukh\Desktop\Pr4\CodeAnalyzer\BlockingQueue\bin\Debug\BlockingQueue.exe.config
+C:\Users\Pramukh\Desktop\Pr4\CodeAnalyzer\BlockingQueue\bin\Debug\BlockingQueue.exe
+C:\Users\Pramukh\Desktop\Pr4\CodeAnalyzer\BlockingQueue\bin\Debug\BlockingQueue.pdb
+C:\Users\Pramukh\Desktop\Pr4\CodeAnalyzer\BlockingQueue\obj\Debug\BlockingQueue.exe
+C:\Users\Pramukh\Desktop\Pr4\CodeAnalyzer\BlockingQueue\obj\Debug\BlockingQueue.pdb

@@ -1,0 +1,43 @@
+C:\su\CoreTechnologies\SocketsAndRemoting\code\WCF_Fawcett_Examples\BasicService\Service\obj\Debug\ResolveAssemblyReference.cache
+C:\su\CoreTechnologies\SocketsAndRemoting\code\WCF_Fawcett_Examples\BasicService\Service\bin\Debug\Service.dll
+C:\su\CoreTechnologies\SocketsAndRemoting\code\WCF_Fawcett_Examples\BasicService\Service\bin\Debug\Service.pdb
+C:\su\CoreTechnologies\SocketsAndRemoting\code\WCF_Fawcett_Examples\BasicService\Service\bin\Debug\IService.dll
+C:\su\CoreTechnologies\SocketsAndRemoting\code\WCF_Fawcett_Examples\BasicService\Service\bin\Debug\IService.pdb
+C:\su\CoreTechnologies\SocketsAndRemoting\code\WCF_Fawcett_Examples\BasicService\Service\obj\Debug\Service.dll
+C:\su\CoreTechnologies\SocketsAndRemoting\code\WCF_Fawcett_Examples\BasicService\Service\obj\Debug\Service.pdb
+C:\Users\jim\Desktop\BasicService - Programmatic\Service\bin\Debug\Service.dll
+C:\Users\jim\Desktop\BasicService - Programmatic\Service\bin\Debug\Service.pdb
+C:\Users\jim\Desktop\BasicService - Programmatic\Service\bin\Debug\IService.dll
+C:\Users\jim\Desktop\BasicService - Programmatic\Service\bin\Debug\IService.pdb
+C:\Users\jim\Desktop\BasicService - Programmatic\Service\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jim\Desktop\BasicService - Programmatic\Service\obj\Debug\Service.dll
+C:\Users\jim\Desktop\BasicService - Programmatic\Service\obj\Debug\Service.pdb
+C:\Users\jim\Desktop\HandCraftedBasicServices\BasicService - Programmatic\Service\bin\Debug\Service.dll
+C:\Users\jim\Desktop\HandCraftedBasicServices\BasicService - Programmatic\Service\bin\Debug\Service.pdb
+C:\Users\jim\Desktop\HandCraftedBasicServices\BasicService - Programmatic\Service\bin\Debug\IService.dll
+C:\Users\jim\Desktop\HandCraftedBasicServices\BasicService - Programmatic\Service\bin\Debug\IService.pdb
+C:\Users\jim\Desktop\HandCraftedBasicServices\BasicService - Programmatic\Service\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jim\Desktop\HandCraftedBasicServices\BasicService - Programmatic\Service\obj\Debug\Service.dll
+C:\Users\jim\Desktop\HandCraftedBasicServices\BasicService - Programmatic\Service\obj\Debug\Service.pdb
+C:\Users\Ravi\Documents\Visual Studio 2013\Projects\BasicService - Programmatic Version 2 (2)\BasicService - Programmatic Version 2\Service\bin\Debug\Service.dll
+C:\Users\Ravi\Documents\Visual Studio 2013\Projects\BasicService - Programmatic Version 2 (2)\BasicService - Programmatic Version 2\Service\bin\Debug\Service.pdb
+C:\Users\Ravi\Documents\Visual Studio 2013\Projects\BasicService - Programmatic Version 2 (2)\BasicService - Programmatic Version 2\Service\bin\Debug\IService.dll
+C:\Users\Ravi\Documents\Visual Studio 2013\Projects\BasicService - Programmatic Version 2 (2)\BasicService - Programmatic Version 2\Service\bin\Debug\ManagerFile.exe
+C:\Users\Ravi\Documents\Visual Studio 2013\Projects\BasicService - Programmatic Version 2 (2)\BasicService - Programmatic Version 2\Service\bin\Debug\Parser.exe
+C:\Users\Ravi\Documents\Visual Studio 2013\Projects\BasicService - Programmatic Version 2 (2)\BasicService - Programmatic Version 2\Service\bin\Debug\IService.pdb
+C:\Users\Ravi\Documents\Visual Studio 2013\Projects\BasicService - Programmatic Version 2 (2)\BasicService - Programmatic Version 2\Service\bin\Debug\ManagerFile.pdb
+C:\Users\Ravi\Documents\Visual Studio 2013\Projects\BasicService - Programmatic Version 2 (2)\BasicService - Programmatic Version 2\Service\bin\Debug\Parser.pdb
+C:\Users\Ravi\Documents\Visual Studio 2013\Projects\BasicService - Programmatic Version 2 (2)\BasicService - Programmatic Version 2\Service\obj\Debug\Service.csprojResolveAssemblyReference.cache
+C:\Users\Ravi\Documents\Visual Studio 2013\Projects\BasicService - Programmatic Version 2 (2)\BasicService - Programmatic Version 2\Service\obj\Debug\Service.dll
+C:\Users\Ravi\Documents\Visual Studio 2013\Projects\BasicService - Programmatic Version 2 (2)\BasicService - Programmatic Version 2\Service\obj\Debug\Service.pdb
+C:\Users\Pramukh\Desktop\Pr4\BasicHTTPServices\BasicService - Programmatic Version 2\Service\bin\Debug\Service.dll
+C:\Users\Pramukh\Desktop\Pr4\BasicHTTPServices\BasicService - Programmatic Version 2\Service\bin\Debug\Service.pdb
+C:\Users\Pramukh\Desktop\Pr4\BasicHTTPServices\BasicService - Programmatic Version 2\Service\bin\Debug\IService.dll
+C:\Users\Pramukh\Desktop\Pr4\BasicHTTPServices\BasicService - Programmatic Version 2\Service\bin\Debug\ManagerFile.exe
+C:\Users\Pramukh\Desktop\Pr4\BasicHTTPServices\BasicService - Programmatic Version 2\Service\bin\Debug\Parser.exe
+C:\Users\Pramukh\Desktop\Pr4\BasicHTTPServices\BasicService - Programmatic Version 2\Service\bin\Debug\IService.pdb
+C:\Users\Pramukh\Desktop\Pr4\BasicHTTPServices\BasicService - Programmatic Version 2\Service\bin\Debug\ManagerFile.pdb
+C:\Users\Pramukh\Desktop\Pr4\BasicHTTPServices\BasicService - Programmatic Version 2\Service\bin\Debug\Parser.pdb
+C:\Users\Pramukh\Desktop\Pr4\BasicHTTPServices\BasicService - Programmatic Version 2\Service\obj\Debug\Service.csprojResolveAssemblyReference.cache
+C:\Users\Pramukh\Desktop\Pr4\BasicHTTPServices\BasicService - Programmatic Version 2\Service\obj\Debug\Service.dll
+C:\Users\Pramukh\Desktop\Pr4\BasicHTTPServices\BasicService - Programmatic Version 2\Service\obj\Debug\Service.pdb

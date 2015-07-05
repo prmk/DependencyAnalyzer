@@ -1,0 +1,2 @@
+cd ServiceClientExec\bin\Debug
+ServiceClientExec.exe

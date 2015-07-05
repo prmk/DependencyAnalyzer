@@ -1,0 +1,1 @@
+devenv ProgBasicService.sln /rebuild debug

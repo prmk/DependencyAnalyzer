@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!--CODE ANALYSER TOOL FOR FINDING TYPE RELATIONSHIPS AND FUNCTION COMPLEXITIES-->
+<CODEANALYSISSUMMARY>
+  <TYPESDETAILSFOREACHFILE />
+  <FilenameName>C:\Users\Pramukh\Desktop\Pr4\BasicHTTPServices\BasicService - Programmatic Version 2\ServerExecutive\bin\Debug\Program3.cs<TYPEDETAILS /><Type>namespace</Type><Name>Test1</Name><Begin>3</Begin><End>21</End><TYPEDETAILS /><Type>class</Type><Name>Program</Name><Begin>5</Begin><End>12</End><TYPEDETAILS /><Type>function</Type><Name>Main</Name><Begin>7</Begin><End>11</End><TYPEDETAILS /><Type>class</Type><Name>Program2</Name><Begin>14</Begin><End>20</End><TYPEDETAILS /><Type>function</Type><Name>test</Name><Begin>16</Begin><End>19</End></FilenameName>
+</CODEANALYSISSUMMARY>

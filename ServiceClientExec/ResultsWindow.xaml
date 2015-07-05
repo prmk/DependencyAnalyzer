@@ -1,0 +1,68 @@
+﻿<Window x:Class="ServiceClientExec.ResultsWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Window1" Height="600" Width="850">
+    <Grid Name="ResultGrid">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+        <StackPanel Grid.Row="0" Orientation="Horizontal">
+            <Label Height="28" Width="200" Margin="10,0" BorderThickness="17,0,0,0" FontWeight="Bold" FontSize="13">Analysis Results</Label>
+            <CheckBox Content="Show Type Analysis" Margin="10,0" Height="28" Name="TypeAnalysisCheckBox" Click="TypeAnalysisCheckBox_Click" ></CheckBox>
+            <CheckBox Content="Show Package Dependency" Margin="10,0" Height="28" Name="PackageDependencyCheckBox" Click="PackageDependencyCheckBox_Click"></CheckBox>
+        </StackPanel>
+        <Grid Grid.Row="1" Margin="10,0" Name="Grid1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="Auto"></ColumnDefinition>
+                <ColumnDefinition Width="Auto"></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            <Label Grid.Column="0" Margin="10,0" VerticalAlignment="Center" HorizontalAlignment="Center" Width="150">Inheritance Results</Label>
+            <ListBox Grid.Column="1" Name="InheritanceListBox" HorizontalAlignment="Left" Width="600" Height="100"></ListBox>
+        </Grid>
+        <Grid Grid.Row="2" Margin="10,0" Name="Grid2" Height="Auto">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="Auto"></ColumnDefinition>
+                <ColumnDefinition Width="Auto"></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            <Label Grid.Column="0" Margin="10,0" VerticalAlignment="Center" HorizontalAlignment="Center" Width="150">Aggregation Results</Label>
+            <ListBox Grid.Column="1" Name="AggregationListBox" HorizontalAlignment="Left" Width="600" Height="100"></ListBox>
+        </Grid>
+        <Grid Grid.Row="3" Margin="10,0" Name="Grid3">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="Auto"></ColumnDefinition>
+                <ColumnDefinition Width="Auto"></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            <Label Grid.Column="0" Margin="10,0" VerticalAlignment="Center" HorizontalAlignment="Center" Width="150">Composition Results</Label>
+            <ListBox Grid.Column="1" Name="CompositionListBox" HorizontalAlignment="Left" Width="600" Height="100"></ListBox>
+        </Grid>
+        <Grid Grid.Row="4" Margin="10,0" Name="Grid4">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="Auto"></ColumnDefinition>
+                <ColumnDefinition Width="Auto"></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            <Label Grid.Column="0" Margin="10,0" VerticalAlignment="Center" HorizontalAlignment="Center" Width="150">Using</Label>
+            <ListBox Grid.Column="1" Name="UsingListBox" HorizontalAlignment="Left" Width="600" Height="100"></ListBox>
+        </Grid>
+        <Grid Grid.Row="5" Margin="10,0" Name="Grid5">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="Auto"></ColumnDefinition>
+                <ColumnDefinition Width="Auto"></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            <Label Grid.Column="0" Margin="10,0" VerticalAlignment="Center" HorizontalAlignment="Center" Width="150">Package Analysis</Label>
+            <ListBox Grid.Column="1" Name="PackageListBox" HorizontalAlignment="Left" Width="600" Height="100"></ListBox>
+        </Grid>
+        <Grid Grid.Row="6" Margin="10,0" Name="Grid6">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="Auto"></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            <TextBlock TextWrapping="WrapWithOverflow" Grid.Column="0" Margin="10,0" VerticalAlignment="Center" HorizontalAlignment="Center" Width="Auto" Name="XMLLabel">XML Location:</TextBlock>
+        </Grid>
+        
+    </Grid>
+</Window>
